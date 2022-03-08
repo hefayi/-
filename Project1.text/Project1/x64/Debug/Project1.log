@@ -1,7 +1,0 @@
-﻿  源.cpp
-C:\Users\lenovo\Desktop\Project1.text\Project1\源.cpp(6,17): error C2065: “arr”: 未声明的标识符
-C:\Users\lenovo\Desktop\Project1.text\Project1\源.cpp(7,17): error C2065: “arr”: 未声明的标识符
-  源1.cpp
-C:\Users\lenovo\Desktop\Project1.text\Project1\源1.cpp(6,17): error C2065: “arr”: 未声明的标识符
-C:\Users\lenovo\Desktop\Project1.text\Project1\源1.cpp(7,17): error C2065: “arr”: 未声明的标识符
-  正在生成代码...
